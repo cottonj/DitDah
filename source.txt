@@ -1,0 +1,4 @@
+source.txt
+this is the source.txt file for 
+testing with the ditdah program 
+CQ CQ CQ DE W3TTT K
