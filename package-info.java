@@ -2,7 +2,7 @@
  * 
  */
 /**
- * @author 565280
+ * @author Joseph Cotton, W3TTT
  *
  */
 package ditdah;
